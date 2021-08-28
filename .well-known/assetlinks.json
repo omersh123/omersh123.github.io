@@ -1,0 +1,5 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target" : { "namespace": "android_app", "package_name": "com.happy.clicklak",
+               "sha256_cert_fingerprints": ["D4:36:2B:F1:6D:7F:FC:C5:F5:40:6F:E3:D4:C5:99:B0:F3:79:D6:93:22:2D:09:09:7E:C4:64:4E:7D:5F:6D:A8"] }
+}]
